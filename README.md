@@ -6,6 +6,7 @@ A comprehensive React Native credit card management application that helps users
 
 ### Dashboard Overview
 <img src="https://github.com/blackhat955/CredSycApp/blob/master/assets/7.png" alt="Dashboard" width="200">
+
 - **Quick Summary**: View total balance, minimum payments, and available credit at a glance
 - **Upcoming Dues**: Track payment deadlines for all your cards
 - **Quick Pay**: Fast access to minimum payment options
@@ -13,6 +14,7 @@ A comprehensive React Native credit card management application that helps users
 
 ### Credit Card Management
 <img src="https://github.com/blackhat955/CredSycApp/blob/master/assets/3.png" alt="My Cards" width="200">
+
 - **Card Portfolio**: Visual display of all your credit cards
 - **Real-time Balances**: Current balance, available credit, and payment due dates
 - **Card Details**: Interest rates, credit limits, and minimum payments
@@ -20,6 +22,7 @@ A comprehensive React Native credit card management application that helps users
 
 ### Smart Payment Distribution
 <img src="https://github.com/blackhat955/CredSycApp/blob/master/assets/5.png" alt="Make Payment" width="200">
+
 - **Intelligent Algorithm**: Automatically distributes payments across cards
 - **Minimum Payment Priority**: Ensures all minimum payments are covered first
 - **Interest Rate Optimization**: Allocates remaining funds to highest interest rate cards
@@ -28,6 +31,7 @@ A comprehensive React Native credit card management application that helps users
 
 ### Payment History & Receipts
 <img src="https://github.com/blackhat955/CredSycApp/blob/master/assets/2.png" alt="Payment History" width="200">
+
 - **Transaction Tracking**: Complete history of all payments made
 - **Receipt Generation**: Digital receipts for every transaction
 - **Payment Details**: Card-wise breakdown of payment distributions
@@ -36,6 +40,7 @@ A comprehensive React Native credit card management application that helps users
 
 ### Settings & Preferences
 <img src="https://github.com/blackhat955/CredSycApp/blob/master/assets/1.png" alt="Settings" width="200">
+
 - **Security Settings**: Two-factor authentication and password management
 - **Notification Controls**: Granular control over email, SMS, and push notifications
 - **Display Preferences**: Customize card sorting and number visibility
