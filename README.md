@@ -5,21 +5,21 @@ A comprehensive React Native credit card management application that helps users
 ## 📱 Features
 
 ### Dashboard Overview
-<img src="https://github.com/blackhat955/CredSycApp/blob/master/assets/1.png" alt="Dashboard" width="200">
+<img src="https://github.com/blackhat955/CredSycApp/blob/master/assets/7.png" alt="Dashboard" width="200">
 - **Quick Summary**: View total balance, minimum payments, and available credit at a glance
 - **Upcoming Dues**: Track payment deadlines for all your cards
 - **Quick Pay**: Fast access to minimum payment options
 - **Notification Settings**: Manage email, SMS, and push notifications
 
 ### Credit Card Management
-<img src="https://github.com/blackhat955/CredSycApp/blob/master/assets/2.png" alt="My Cards" width="200">
+<img src="https://github.com/blackhat955/CredSycApp/blob/master/assets/3.png" alt="My Cards" width="200">
 - **Card Portfolio**: Visual display of all your credit cards
 - **Real-time Balances**: Current balance, available credit, and payment due dates
 - **Card Details**: Interest rates, credit limits, and minimum payments
 - **Add New Cards**: Easy integration of additional credit cards
 
 ### Smart Payment Distribution
-<img src="https://github.com/blackhat955/CredSycApp/blob/master/assets/3.png" alt="Make Payment" width="200">
+<img src="https://github.com/blackhat955/CredSycApp/blob/master/assets/5.png" alt="Make Payment" width="200">
 - **Intelligent Algorithm**: Automatically distributes payments across cards
 - **Minimum Payment Priority**: Ensures all minimum payments are covered first
 - **Interest Rate Optimization**: Allocates remaining funds to highest interest rate cards
@@ -27,7 +27,7 @@ A comprehensive React Native credit card management application that helps users
 - **Payment Types**: Support for minimum payments, custom amounts, and full balance payments
 
 ### Payment History & Receipts
-<img src="https://github.com/blackhat955/CredSycApp/blob/master/assets/5.png" alt="Payment History" width="200">
+<img src="https://github.com/blackhat955/CredSycApp/blob/master/assets/2.png" alt="Payment History" width="200">
 - **Transaction Tracking**: Complete history of all payments made
 - **Receipt Generation**: Digital receipts for every transaction
 - **Payment Details**: Card-wise breakdown of payment distributions
@@ -35,7 +35,7 @@ A comprehensive React Native credit card management application that helps users
 - **Search & Filter**: Easy navigation through payment history
 
 ### Settings & Preferences
-<img src="https://github.com/blackhat955/CredSycApp/blob/master/assets/7.png" alt="Settings" width="200">
+<img src="https://github.com/blackhat955/CredSycApp/blob/master/assets/1.png" alt="Settings" width="200">
 - **Security Settings**: Two-factor authentication and password management
 - **Notification Controls**: Granular control over email, SMS, and push notifications
 - **Display Preferences**: Customize card sorting and number visibility
@@ -49,28 +49,6 @@ A comprehensive React Native credit card management application that helps users
 - **State Management**: React Hooks (useState, useMemo)
 - **Platform Support**: iOS, Android, and Web
 
-## 📦 Installation
-
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/blackhat955/CredSycApp.git
-   cd CardSyncApp
-   ```
-
-2. **Install dependencies**
-   ```bash
-   npm install
-   ```
-
-3. **Start the development server**
-   ```bash
-   npm start
-   ```
-
-4. **Run on your preferred platform**
-   - **iOS**: Press `i` or scan QR code with Camera app
-   - **Android**: Press `a` or scan QR code with Expo Go
-   - **Web**: Press `w` or open http://localhost:19006
 
 ## 🎯 Key Functionalities
 
@@ -97,11 +75,11 @@ The app features an intelligent payment distribution system that:
 
 | Dashboard | My Cards | Make Payment |
 |-----------|----------|-------------|
-| <img src="https://github.com/blackhat955/CredSycApp/blob/master/assets/1.png" width="200" alt="Dashboard"> | <img src="https://github.com/blackhat955/CredSycApp/blob/master/assets/2.png" width="200" alt="My Cards"> | <img src="https://github.com/blackhat955/CredSycApp/blob/master/assets/3.png" width="200" alt="Make Payment"> |
+| <img src="https://github.com/blackhat955/CredSycApp/blob/master/assets/7.png" width="200" alt="Dashboard"> | <img src="https://github.com/blackhat955/CredSycApp/blob/master/assets/3.png" width="200" alt="My Cards"> | <img src="https://github.com/blackhat955/CredSycApp/blob/master/assets/5.png" width="200" alt="Make Payment"> |
 
 | Payment History | Settings |
 |----------------|----------|
-| <img src="https://github.com/blackhat955/CredSycApp/blob/master/assets/5.png" width="200" alt="Payment History"> | <img src="https://github.com/blackhat955/CredSycApp/blob/master/assets/7.png" width="200" alt="Settings"> |
+| <img src="https://github.com/blackhat955/CredSycApp/blob/master/assets/2.png" width="200" alt="Payment History"> | <img src="https://github.com/blackhat955/CredSycApp/blob/master/assets/1.png" width="200" alt="Settings"> |
 
 ## 🛠️ Development
 
@@ -142,26 +120,4 @@ The app uses Expo configuration in `app.json`:
 
 1. Fork the repository
 2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-## 📄 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-## 👨‍💻 Author
-
-**blackhat955**
-- GitHub: [@blackhat955](https://github.com/blackhat955)
-- Repository: [CredSycApp](https://github.com/blackhat955/CredSycApp)
-
-## 🙏 Acknowledgments
-
-- React Native community for excellent documentation
-- Expo team for the amazing development platform
-- React Navigation for seamless navigation solutions
-
----
-
-**CardSyncApp** - Simplifying credit card management, one payment at a time! 💳✨
+3. Commit you
