@@ -97,11 +97,11 @@ The app features an intelligent payment distribution system that:
 
 | Dashboard | My Cards | Make Payment |
 |-----------|----------|-------------|
-| ![Dashboard](https://raw.githubusercontent.com/blackhat955/CredSycApp/master/CardSyncApp/assets/1.png) | ![My Cards](https://raw.githubusercontent.com/blackhat955/CredSycApp/master/CardSyncApp/assets/2.png) | ![Make Payment](https://raw.githubusercontent.com/blackhat955/CredSycApp/master/CardSyncApp/assets/3.png) |
+| <img src="https://raw.githubusercontent.com/blackhat955/CredSycApp/master/CardSyncApp/assets/1.png" width="200" alt="Dashboard"> | <img src="https://raw.githubusercontent.com/blackhat955/CredSycApp/master/CardSyncApp/assets/2.png" width="200" alt="My Cards"> | <img src="https://raw.githubusercontent.com/blackhat955/CredSycApp/master/CardSyncApp/assets/3.png" width="200" alt="Make Payment"> |
 
 | Payment History | Settings |
 |----------------|----------|
-| ![Payment History](https://raw.githubusercontent.com/blackhat955/CredSycApp/master/CardSyncApp/assets/5.png) | ![Settings](https://raw.githubusercontent.com/blackhat955/CredSycApp/master/CardSyncApp/assets/7.png) |
+| <img src="https://raw.githubusercontent.com/blackhat955/CredSycApp/master/CardSyncApp/assets/5.png" width="200" alt="Payment History"> | <img src="https://raw.githubusercontent.com/blackhat955/CredSycApp/master/CardSyncApp/assets/7.png" width="200" alt="Settings"> |
 
 ## 🛠️ Development
 
